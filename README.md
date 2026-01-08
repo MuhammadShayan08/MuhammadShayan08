@@ -1,41 +1,95 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shayan</h1>
-<h3 align="center">A passionate Fullstack developer from Pakistan</h3>
+<!-- ======================= -->
+<!-- GitHub Profile README -->
+<!-- ======================= -->
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g2M3RyOGNsN2trMDd6Z3czanZuMGRneW14ZGdscWUxbnE4Z3dnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
+<h1 align="center">🌟 Shayan | Python & AI Developer</h1>
+<h3 align="center">💻 Python, AI/ML, Game Development | Generative AI Enthusiast</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadshayan08&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadshayan08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadshayan08" alt="muhammadshayan08" /></a> </p>
-
-- 🔭 I’m currently working on **Data Science**
-
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 👯 I’m looking to collaborate on **Codanics**
-
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/muhammadshayan5839](https://www.kaggle.com/muhammadshayan5839)
-
-- 📫 How to reach me **shayan.corner@gmail.com**
-
-- 📄 Know about my experiences [https://www.kaggle.com/muhammadshayan5839](https://www.kaggle.com/muhammadshayan5839)
-
-- ⚡ Fun fact **I think I am funny coder**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-shayan-baa17636b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-shayan-baa17636b" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/muhammadshayan5839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhammadshayan5839" height="30" width="40" /></a>
-<a href="https://fb.com/muhammadshayan08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadshayan08" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shayan_data_lab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shayan_data_lab/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@shayandatalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@shayandatalab" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshayan08&show_icons=true&locale=en&layout=compact" alt="muhammadshayan08" /></p>
+## 🚀 About Me
+> "Building production-ready Python, AI & ML systems that scale and solve real-world problems."
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadshayan08&show_icons=true&locale=en" alt="muhammadshayan08" /></p>
+- 🌱 Currently exploring **Generative AI & 3D Game Development**  
+- 🎮 Passionate about **building interactive games**  
+- 💬 Ask me about **Python, Kaggle, AI & Data Science**  
+- ⚡ Fun fact: I can code and play badminton 🏸 simultaneously!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshayan08&" alt="muhammadshayan08" /></p>
+---
+
+## 🏆 Professional Highlights
+- Kaggle Expert: 10 Bronze 🥉 & 2 Silver 🥈 medals, plus 3 Silver 🥈 datasets medals  
+- 50+ AI/ML projects spanning **Generative AI, Deep Learning, and MLOps**  
+- Production AI Experience: Interned at **Elevo Pathways & Data Science Intern at Skilled Score**  
+- LLM & Generative AI Specialist: Hands-on with **LangChain, LangGraph, OpenAI APIs**  
+- Focus: **Generative AI, LLM fine-tuning, and robust MLOps pipelines**
+
+---
+
+## 🛠 Technical Arsenal
+
+### Core Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FEA500?style=flat-square&logo=huggingface&logoColor=white)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+### MLOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLFlow](https://img.shields.io/badge/MLFlow-00B0F0?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
+
+### Databases & Vector Stores
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=flat-square)
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-shayan-baa17636b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200">
+</p>
+<p align="center"><i>Thanks for visiting! Let's create amazing AI & Python projects together ✨</i></p>
