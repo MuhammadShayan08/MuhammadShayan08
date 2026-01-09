@@ -5,7 +5,22 @@
 
 <!-- 🌈 RAINBOW TYPING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=2500&pause=900&center=true&vCenter=true&width=900&height=80&lines=🌟+Shayan+|+Python+%26+AI+Developer;🤖+AI%2FML+Engineer;🚀+Generative+AI+Specialist;📊+Kaggle+Expert&color=FF0000&color2=FFA500&color3=FFFF00&color4=00FF00&color5=00FFFF&color6=0000FF&color7=8A2BE2" />
+
+  <!-- Line 1 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=36&duration=2500&pause=100000&center=true&vCenter=true&width=900&height=50&color=FF0000&lines=🌟+Shayan+%7C+Python+%26+AI+Developer" />
+  <br/>
+
+  <!-- Line 2 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=100000&center=true&vCenter=true&width=900&height=50&color=FFA500&initialDelay=3000&lines=🤖+AI%2FML+Engineer" />
+  <br/>
+
+  <!-- Line 3 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=100000&center=true&vCenter=true&width=900&height=50&color=FFFF00&initialDelay=6000&lines=🚀+Generative+AI+Specialist" />
+  <br/>
+
+  <!-- Line 4 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=100000&center=true&vCenter=true&width=900&height=50&color=00FF00&initialDelay=9000&lines=📊+Kaggle+Expert" />
+
 </p>
 
 <h3 align="center">
@@ -17,9 +32,10 @@
   <img src="https://komarev.com/ghpvc/?username=MuhammadShayan08&style=flat-square&color=blueviolet" />
 </p>
 
-<hr/>
-
-## 🚀 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10&height=10&section=header" width="100%" />
+</p>
+# 🚀 About Me
 > 🌈 *Building production-ready Python, AI & ML systems that scale and solve real-world problems.*
 
 - 🌱 Exploring **Generative AI & 3D Game Development**
@@ -41,7 +57,9 @@
 - 🎯 Focus Areas:
   **Generative AI · LLM Fine-Tuning · Scalable MLOps Pipelines**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10&height=10&section=header" width="100%" />
+</p>
 
 ## 🛠 Technical Arsenal 🌈
 
@@ -97,26 +115,41 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-8a2be2?style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10&height=10&section=header" width="100%" />
+</p>
 
 ## 📊 GitHub Analytics 🌈
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadShayan08&show_icons=true&theme=radical&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShayan08&theme=radical&hide_border=true" width="45%"/>
-</p>
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadShayan08&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShayan08&theme=radical" alt="GitHub Streak" />
+  </a>
+
+  <br />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShayan08&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadShayan08&theme=radical&no-frame=true&row=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10&height=10&section=header" width="100%" />
 </p>
-
----
 
 ## 🐍 Contribution Snake (Rainbow)
 <p align="center">
   <img src="https://raw.githubusercontent.com/MuhammadShayan08/MuhammadShayan08/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10&height=10&section=header" width="100%" />
+</p>
 
 ## 📫 Connect With Me 🌐
 <p align="center">
@@ -132,6 +165,13 @@
 </p>
 
 <hr/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&color=0:ff0000,15:ffa500,30:ffff00,45:00ff00,60:00ffff,75:0000ff,90:8a2be2&reversal=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10&height=10&section=header" width="100%" />
+</p>
 
 <p align="center">
   🌈 <b>Crafting Intelligent Systems · One Model at a Time</b> 🌈
