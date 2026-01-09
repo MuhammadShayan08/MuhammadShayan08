@@ -1,15 +1,37 @@
-<!-- ======================= -->
-<!-- GitHub Profile README -->
-<!-- ======================= -->
-
-<h1 align="center">🌟 Shayan | Python & AI Developer</h1>
-<h3 align="center">💻 Python, AI/ML, Game Development | Generative AI Enthusiast</h3>
-
+<!-- RAINBOW WELCOME BANNER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome!&fontSize=55&fontColor=ffffff&animation=twinkling&color=0:ff0000,15:ffa500,30:ffff00,45:00ff00,60:00ffff,75:0000ff,90:8a2be2" 
+    alt="Welcome Banner" 
+  />
 </p>
 
----
+<!-- RAINBOW TYPING TEXT -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=2500&pause=800&center=true&vCenter=true&width=900&height=80&lines=🌟+Shayan+|+Python+%26+AI+Developer;🤖+AI%2FML+Engineer;🚀+Generative+AI+Specialist;📊+Kaggle+Expert&color=FF0000&color2=FFA500&color3=FFFF00&color4=00FF00&color5=00FFFF&color6=0000FF&color7=8A2BE2" 
+    alt="Typing SVG" 
+  />
+</p>
+
+<!-- SUBTITLE -->
+<h3 align="center">
+  💻 Python · AI/ML · Game Development <br/>
+  🚀 Generative AI Enthusiast
+</h3>
+
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=MuhammadShayan08&style=flat-square&color=blueviolet" 
+    alt="Profile Views" 
+  />
+</p>
+
+<hr/>
+
+
+
 
 ## 🚀 About Me
 > "Building production-ready Python, AI & ML systems that scale and solve real-world problems."
@@ -80,12 +102,14 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadShayan08&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShayan08&theme=radical" width="45%" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadShayan08&theme=radical" />
 </p>
+
 
 ---
 
