@@ -20,17 +20,46 @@
 
   <!-- Line 4 -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=100000&center=true&vCenter=true&width=900&height=50&color=00FF00&initialDelay=9000&lines=📊+Kaggle+Expert" />
-
-</p>
-
-<h3 align="center">
-  💻 Python · AI/ML · Game Development <br/>
-  🚀 Generative AI Enthusiast
-</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadShayan08&style=flat-square&color=blueviolet" />
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+    alt="Animation"
+    style="width:100%; height:600px; object-fit:cover;"
+  />
 </p>
+
+
+<div align="center">
+
+<!-- Title -->
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+    alt="Rainbow Animation"
+    width="100%"
+  />
+</p>
+<h1 style="background: linear-gradient(90deg, #FF5F6D, #FFC371, #36BCF7, #9B59B6); -webkit-background-clip: text; color: transparent;">
+  🚀 About Me
+</h1>
+<div align="center">
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Building+Scalable+Python+%7C+AI+%7C+ML+Systems&duration=3000" 
+  alt="Typing Line 1" 
+/>
+<!-- Line 2 (starts after 3s) -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFA500&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Production-Ready+Solutions&duration=3000&delay=3000" 
+  alt="Typing Line 2" 
+/>
+<!-- Line 3 (starts after 6s) -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Passionate+About+Intelligent+%26+Interactive+Games&duration=3000&delay=6000" 
+  alt="Typing Line 3" 
+/>
+
+</div>
+
 
 <p align="center">
   <img 
@@ -40,18 +69,48 @@
   />
 </p>
 
-<div align="center">
+<!-- Rainbow Lines -->
+<p style="background: linear-gradient(90deg, #FF0000, #FF7F00); -webkit-background-clip: text; color: transparent; font-weight:bold;">
+🌈 Building production-ready Python, AI & ML systems
+</p>
 
-## 🚀 About Me
+<p style="background: linear-gradient(90deg, #FF7F00, #FFFF00); -webkit-background-clip: text; color: transparent; font-weight:bold;">
+that scale, perform, and solve real-world problems
+</p>
 
-🌈 *Building production-ready Python, AI & ML systems that scale and solve real-world problems.*
+<p style="background: linear-gradient(90deg, #00FF00, #00FFFF); -webkit-background-clip: text; color: transparent; font-weight:bold;">
+🌱 Currently exploring Generative AI & 3D Game Development
+</p>
 
-🌱 Exploring **Generative AI & 3D Game Development**  
-🎮 Passionate about **interactive & intelligent games**  
-💬 Ask me about **Python, Kaggle, AI & Data Science**  
-⚡ Fun fact: I can code and play badminton 🏸 simultaneously  
+<p style="background: linear-gradient(90deg, #0000FF, #8B00FF); -webkit-background-clip: text; color: transparent; font-weight:bold;">
+🎮 Passionate about Interactive & Intelligent Games
+</p>
+
+<p style="background: linear-gradient(90deg, #FF1493, #FF4500); -webkit-background-clip: text; color: transparent; font-weight:bold;">
+💬 Ask me about Python, Kaggle, AI & Data Science
+</p>
+
+<p style="background: linear-gradient(90deg, #36BCF7, #FF00FF); -webkit-background-clip: text; color: transparent; font-weight:bold;">
+⚡ Fun fact: I can code & play badminton 🏸 simultaneously
+</p>
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
+    alt="Rainbow Animation"
+    width="100%"
+  />
+</p>
+---
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-purple?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Game%20Dev-3D-green?style=for-the-badge&logo=unity" />
+</p>
 
 </div>
+
 
 <!-- ===================== PROFESSIONAL HIGHLIGHTS ===================== -->
 
@@ -62,10 +121,6 @@
 🥇 **Kaggle Expert** — 10 Bronze 🥉 & 2 Silver 🥈 medals  
 📊 **3 Silver 🥈 Dataset medals** on Kaggle  
 🚀 **50+ AI/ML projects** across GenAI · DL · MLOps  
-
-### 🧠 Industry Experience
-AI Intern @ **Elevo Pathways**  
-Data Science Intern @ **Skilled Score**
 
 ### 🤖 LLM & Generative AI
 LangChain · LangGraph · OpenAI APIs  
@@ -149,6 +204,16 @@ Generative AI · LLM Fine-Tuning · Scalable MLOps Pipelines
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShayan08&layout=compact&theme=radical" />
 </div>
 
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadShayan08&theme=tokyo-night&bg_color=0D1117&color=36BCF7&line=0D4FF&point=FFD93D&area=true&hide_border=true" 
+    alt="Shayan's GitHub Activity Graph" 
+    width="90%" 
+    style="max-width:900px; border-radius:12px; box-shadow:0 8px 20px rgba(0,0,0,0.2);" 
+  />
+</p>
+
+
 <!-- ===================== SNAKE ===================== -->
 <p align="center">
   <img 
@@ -192,6 +257,9 @@ Generative AI · LLM Fine-Tuning · Scalable MLOps Pipelines
     <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  🌈 <b>Crafting Intelligent Systems · One Model at a Time</b> 🌈
+</p>
 
 
 <!-- 🌈 RAINBOW ENDING BANNER -->
@@ -199,6 +267,3 @@ Generative AI · LLM Fine-Tuning · Scalable MLOps Pipelines
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn&color=0:ff0000,15:ffa500,30:ffff00,45:00ff00,60:00ffff,75:0000ff,90:8a2be2" />
 </p>
 
-<p align="center">
-  🌈 <b>Crafting Intelligent Systems · One Model at a Time</b> 🌈
-</p>
