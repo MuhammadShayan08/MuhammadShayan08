@@ -6,20 +6,9 @@
 <!-- 🌈 RAINBOW TYPING TEXT -->
 <p align="center">
 
-  <!-- Line 1 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=36&duration=2500&pause=100000&center=true&vCenter=true&width=900&height=50&color=FF0000&lines=🌟+Shayan+%7C+Python+%26+AI+Developer" />
-  <br/>
-
-  <!-- Line 2 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=100000&center=true&vCenter=true&width=900&height=50&color=FFA500&initialDelay=3000&lines=🤖+AI%2FML+Engineer" />
-  <br/>
-
-  <!-- Line 3 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=100000&center=true&vCenter=true&width=900&height=50&color=FFFF00&initialDelay=6000&lines=🚀+Generative+AI+Specialist" />
-  <br/>
-
-  <!-- Line 4 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2500&pause=100000&center=true&vCenter=true&width=900&height=50&color=00FF00&initialDelay=9000&lines=📊+Kaggle+Expert" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2000&pause=800&color=F75C7E,F99C5C,FCCE5E,90D980,71BDEF,9F7AEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=220&lines=%F0%9F%8C%9F+Shayan+%7C+Python+%26+AI+Developer;%F0%9F%A4%96+AI%2FML+Engineer;%F0%9F%9A%80+Generative+AI+Specialist;%F0%9F%93%8A+Kaggle+Expert" alt="Typing SVG" />
+</p>
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
