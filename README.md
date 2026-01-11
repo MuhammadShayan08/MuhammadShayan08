@@ -214,24 +214,11 @@ Generative AI · LLM Fine-Tuning · Scalable MLOps Pipelines
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MuhammadShayan08/MuhammadShayan08/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MuhammadShayan08/MuhammadShayan08/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" width="1000" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-    alt="Rainbow Animation"
-    width="100%"
-  />
-</p>
+
 <!-- ===================== CONTACT ===================== -->
 
 <h2 align="center">📫 Connect With Me 🌐</h2>
