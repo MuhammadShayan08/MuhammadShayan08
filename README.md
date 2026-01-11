@@ -29,6 +29,7 @@
   />
 </p>
 <h1 style="background: linear-gradient(90deg, #FF5F6D, #FFC371, #36BCF7, #9B59B6); -webkit-background-clip: text; color: transparent;">
+  
   🚀 About Me
 </h1>
 <div align="center">
