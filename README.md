@@ -7,7 +7,7 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2000&pause=800&color=F75C7E,F99C5C,FCCE5E,90D980,71BDEF,9F7AEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=220&lines=%F0%9F%8C%9F+Shayan+%7C+Python+%26+AI+Developer;%F0%9F%A4%96+AI%2FML+Engineer;%F0%9F%9A%80+Generative+AI+Specialist;%F0%9F%93%8A+Kaggle+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=2000&pause=800&color=F75C7E,F99C5C,FCCE5E,90D980,71BDEF,9F7AEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=220&lines=%F0%9F%8C%9F+Shayan+%7C+Python+%26+AI+Developer;%F0%9F%A4%96+AI%2FML+Engineer;%F0%9F%9A%80+Generative+AI+Specialist;%F0%9F%93%8A+Kaggle+Grandmaster" alt="Typing SVG" />
 </p>
 <p align="center">
   <img 
